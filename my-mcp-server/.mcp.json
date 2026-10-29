@@ -1,0 +1,11 @@
+{
+  "mcpServers": {
+    "project-assistant": {
+      "command": "npx",
+      "args": [
+        "tsx",
+        "/home/aniketh/MyProjects/jobSearch/aicamp/my-mcp-server/src/index.ts"
+      ]
+    }
+  }
+}
